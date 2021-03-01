@@ -1,0 +1,6 @@
+name: kbd
+version: 1
+main: me.chili.KnockBackDuels.Main
+api-version: 1.15
+authors: [Chili]
+description: Custom KBD
