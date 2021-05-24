@@ -1,0 +1,12 @@
+name: ManHuntRemastred
+version: V1-Remastred
+main: me.Protocraft.ManHuntRemastered.ManHuntCore
+api-version: 1.16
+authors: [Chili]
+description: aaaaaaaaaaaaaaaaaa
+
+commands:
+  kbd:
+    description: supra
+    usage: /<command>
+    aliases: opengui
