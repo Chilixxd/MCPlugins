@@ -1,0 +1,6 @@
+name: LobbyGUI
+version: 1
+main: me.chili.LobbyGUI.MainGUI
+api-version: 1.15
+authors: [Chili]
+description: Custom GUI
